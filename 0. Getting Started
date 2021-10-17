@@ -1,0 +1,31 @@
+# Artithmetics
+
+I think you'd know this by now.
+
+Simple arithmetics include:
+- (+) for adding
+- (-) for subtracting
+- (*) for multiplying
+- (/) for dividing
+- (%) for modulos
+
+# The Math Class
+
+Not THE math class, but a class as in code.
+Most languages have a built-in math class.
+
+Most math classes include functions such as:
+- Sin (returns the sine wave of a number)
+- Cos (returns the cosine wave of a number)
+- Tan (returns a tangent for a number)
+- Mod (a shortcut for the modulo arithmetic)
+
+More complex functions include:
+- Lerp (Smoothly lerps two numbers together)
+
+Variables include:
+- PI (a variable that represents a π)
+- POSITIVE_INFINITY (a variable that represents the maximum number a float can hold)
+- NEGATIVE_INFINITY (a variable that represents the minimum number a float can hold)
+
+That's all.
